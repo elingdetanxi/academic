@@ -61,8 +61,6 @@
       <description></description>
     </item>
     
-<<<<<<< HEAD
-=======
     <item>
       <title>Istio</title>
       <link>https://elingdetanxi.github.io/academic/tags/istio/</link>
@@ -180,6 +178,5 @@
       <description></description>
     </item>
     
->>>>>>> f582a19 (rebuilding site Sun Apr  9 12:11:27 EDT 2023)
   </channel>
 </rss>

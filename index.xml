@@ -6,40 +6,11 @@
     <description>Recent content on Yuan Yan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-<<<<<<< HEAD
-    <lastBuildDate>Fri, 07 Apr 2023 17:20:02 -0400</lastBuildDate>
-    
-	<atom:link href="https://elingdetanxi.github.io/academic/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Test</title>
-      <link>https://elingdetanxi.github.io/academic/post/test/</link>
-      
-      <guid>https://elingdetanxi.github.io/academic/post/test/</guid>
-      <description>123456789 test bold italic ==hilight==
-todo list </description>
-    </item>
-    
-    <item>
-      <title>Test</title>
-      <link>https://elingdetanxi.github.io/academic/test/</link>
-      
-      <guid>https://elingdetanxi.github.io/academic/test/</guid>
-      <description>123456789 test bold italic ==hilight==
-todo list </description>
-    </item>
-    
-    <item>
-      <title>Getting started with Vibrant Shadows</title>
-      <link>https://elingdetanxi.github.io/academic/post/getting-started/</link>
-=======
     <lastBuildDate>Tue, 06 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://elingdetanxi.github.io/academic/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Getting started with Vibrant Shadows</title>
       <link>https://elingdetanxi.github.io/academic/post/getting-started/</link>
       <pubDate>Tue, 06 Oct 2020 00:00:00 +0000</pubDate>
->>>>>>> f582a19 (rebuilding site Sun Apr  9 12:11:27 EDT 2023)
       
       <guid>https://elingdetanxi.github.io/academic/post/getting-started/</guid>
       <description>&lt;p&gt;It&amp;rsquo;s very easy to get started with Vibrant Shadows. How? Read on.&lt;/p&gt;</description>
@@ -48,10 +19,7 @@ todo list </description>
     <item>
       <title>Hugo&#39;s built-in global configurations</title>
       <link>https://elingdetanxi.github.io/academic/post/hugo-built-in-global-configuration/</link>
-<<<<<<< HEAD
-=======
       <pubDate>Mon, 05 Oct 2020 00:00:00 +0000</pubDate>
->>>>>>> f582a19 (rebuilding site Sun Apr  9 12:11:27 EDT 2023)
       
       <guid>https://elingdetanxi.github.io/academic/post/hugo-built-in-global-configuration/</guid>
       <description>&lt;p&gt;Options that Hugo has built-in and are relevant to this theme. If something is not covered here (or elsewhere in this file), there&amp;rsquo;s a good chance it is covered in &lt;a href=&#34;https://gohugo.io/getting-started/configuration/#configuration-file&#34;&gt;this Hugo docs page&lt;/a&gt;.&lt;/p&gt;</description>
@@ -60,10 +28,7 @@ todo list </description>
     <item>
       <title>Custom configuration options in the theme</title>
       <link>https://elingdetanxi.github.io/academic/post/theme-custom-global-configuration/</link>
-<<<<<<< HEAD
-=======
       <pubDate>Sun, 04 Oct 2020 00:00:00 +0000</pubDate>
->>>>>>> f582a19 (rebuilding site Sun Apr  9 12:11:27 EDT 2023)
       
       <guid>https://elingdetanxi.github.io/academic/post/theme-custom-global-configuration/</guid>
       <description>&lt;p&gt;Here, we will mainly see settings that are unique to this theme. If something is not covered here (or elsewhere in this file), there&amp;rsquo;s a good chance it is covered in &lt;a href=&#34;https://gohugo.io/getting-started/configuration/#configuration-file&#34;&gt;this Hugo docs page&lt;/a&gt;.&lt;/p&gt;</description>
@@ -72,10 +37,7 @@ todo list </description>
     <item>
       <title>Page configuration options in the theme</title>
       <link>https://elingdetanxi.github.io/academic/post/page-configuration/</link>
-<<<<<<< HEAD
-=======
       <pubDate>Sat, 03 Oct 2020 00:00:00 +0000</pubDate>
->>>>>>> f582a19 (rebuilding site Sun Apr  9 12:11:27 EDT 2023)
       
       <guid>https://elingdetanxi.github.io/academic/post/page-configuration/</guid>
       <description>&lt;p&gt;&amp;lsquo;Page paremeters&amp;rsquo; relate to the particular content file in whose front-matter they are defined.&lt;/p&gt;</description>
@@ -84,10 +46,7 @@ todo list </description>
     <item>
       <title>Example config.yaml</title>
       <link>https://elingdetanxi.github.io/academic/post/example-config-yaml/</link>
-<<<<<<< HEAD
-=======
       <pubDate>Fri, 02 Oct 2020 00:00:00 +0000</pubDate>
->>>>>>> f582a19 (rebuilding site Sun Apr  9 12:11:27 EDT 2023)
       
       <guid>https://elingdetanxi.github.io/academic/post/example-config-yaml/</guid>
       <description>&lt;p&gt;An example configuration file (config.yaml), which shows all the configuration options supported by &amp;lsquo;Vibrant Shadows&amp;rsquo; theme by Softorage, with explaining comments.&lt;/p&gt;</description>
@@ -96,19 +55,12 @@ todo list </description>
     <item>
       <title>Additional information about the theme</title>
       <link>https://elingdetanxi.github.io/academic/post/additional-info/</link>
-<<<<<<< HEAD
-=======
       <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
->>>>>>> f582a19 (rebuilding site Sun Apr  9 12:11:27 EDT 2023)
       
       <guid>https://elingdetanxi.github.io/academic/post/additional-info/</guid>
       <description>&lt;p&gt;We share some additional information about this theme, that may be relevant.&lt;/p&gt;</description>
     </item>
     
-<<<<<<< HEAD
-  </channel>
-</rss>
-=======
     <item>
       <title>Clean White Theme for Hugo</title>
       <link>https://elingdetanxi.github.io/academic/post/readme/</link>
@@ -382,4 +334,3 @@ export HTTPS_PROXY=&amp;#34;http://127.0.0.1:3128/&amp;#34;
     
   </channel>
 </rss>
->>>>>>> f582a19 (rebuilding site Sun Apr  9 12:11:27 EDT 2023)

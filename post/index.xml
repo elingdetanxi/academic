@@ -6,21 +6,7 @@
     <description>Recent content in Posts on Yuan Yan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-<<<<<<< HEAD
-    <lastBuildDate>Fri, 07 Apr 2023 17:20:02 -0400</lastBuildDate><atom:link href="https://elingdetanxi.github.io/academic/post/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Test</title>
-      <link>https://elingdetanxi.github.io/academic/post/test/</link>
-      <pubDate>Fri, 07 Apr 2023 17:20:02 -0400</pubDate>
-      
-      <guid>https://elingdetanxi.github.io/academic/post/test/</guid>
-      <description>123456789 test bold italic ==hilight==
-todo list </description>
-    </item>
-    
-=======
     <lastBuildDate>Tue, 06 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://elingdetanxi.github.io/academic/post/index.xml" rel="self" type="application/rss+xml" />
->>>>>>> f582a19 (rebuilding site Sun Apr  9 12:11:27 EDT 2023)
     <item>
       <title>Getting started with Vibrant Shadows</title>
       <link>https://elingdetanxi.github.io/academic/post/getting-started/</link>
@@ -75,8 +61,6 @@ todo list </description>
       <description>&lt;p&gt;We share some additional information about this theme, that may be relevant.&lt;/p&gt;</description>
     </item>
     
-<<<<<<< HEAD
-=======
     <item>
       <title>Clean White Theme for Hugo</title>
       <link>https://elingdetanxi.github.io/academic/post/readme/</link>
@@ -312,6 +296,5 @@ export HTTPS_PROXY=&amp;#34;http://127.0.0.1:3128/&amp;#34;
       <description>“Yeah It&amp;rsquo;s on. ” Hello World!</description>
     </item>
     
->>>>>>> f582a19 (rebuilding site Sun Apr  9 12:11:27 EDT 2023)
   </channel>
 </rss>
